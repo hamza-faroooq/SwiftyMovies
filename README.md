@@ -2,9 +2,17 @@
 Assignment for ILI.DIGITAL
 
 ## Introduction
-This repository contains the project assignment. Below are some comments to be shared from the developer.
+This repository contains the project assignment. URLs given to use in the project:
 
-## Usage and Tools
+* https://yts.mx/api/v2/list_movies.json - working
+* https://yts.mx/api/v2/movie_details.json - working
+* https://yts.mx/api/v2/movie_comments.json - not working (asked via email but no response - so I have to skip this step)
+* https://yts.mx/api/v2/movie_suggestions.json - working
+
+See [Postman Collection](https://github.com/hamza-faroooq/SwiftyMovies/blob/main/YTS%20APIS.postman_collection.json.zip) for more details.
+Icons are taken from [Icons8](https://icons8.com).
+
+## Tools and Usage
 The current supported iOS verions are v14.5 and above. Xcode version used for this project is v12.5. Download the repo and install pods if necessary.
 
 ## Core Functionality
